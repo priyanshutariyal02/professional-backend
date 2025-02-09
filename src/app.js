@@ -25,4 +25,14 @@ app.use(express.static("public"));
 // TO perfrom CRUD over cookies on browser
 app.use(cookieParser());
 
+//Routes import
+
+import userRouter from "./routes/user.routes.js";
+
+// routes declaration
+
+app.use("/api/v1/users", userRouter);
+
+// url like : http://localhost:8000/api/v1/users/register
+
 export { app };
