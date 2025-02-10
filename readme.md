@@ -24,6 +24,10 @@ This repository contains the backend service for a social media application, bui
 * **Prettier:** Code formatter.
 * **GitHub:** Version control.
 
+## Model Design
+
+![diagram-export-2-10-2025-1_07_19-PM](https://github.com/user-attachments/assets/237ff9ef-f9b8-4200-9cba-49fc69a7f73c)
+
 ## Architecture
 
 The backend follows a modular architecture, separating concerns into distinct routes and middleware.  Key components include:
