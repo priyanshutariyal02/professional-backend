@@ -26,8 +26,7 @@ This repository contains the backend service for a social media application, bui
 
 ## Model Design
 
-![diagram-export-2-10-2025-1_07_19-PM](https://github.com/user-attachments/assets/e8abe790-90d1-4d5a-9b61-755d5f23c270)
-
+![diagram-export-2-10-2025-1_10_38-PM](https://github.com/user-attachments/assets/7eb89849-1096-49f1-8def-ae1a82e22b12)
 
 ## Architecture
 
